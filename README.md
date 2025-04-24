@@ -2,6 +2,8 @@
 
 A project for medical instance segmentation using a ResNet-50-FPN based Mask R-CNN.
 
+Stu: Ping-Yeh Chou 113550901
+
 ## Introduction
 
 This repository implements an instance segmentation pipeline for medical images using Mask R-CNN with a ResNet-50-FPN backbone. The goal is to detect and segment different types of medical objects in images, supporting multi-class instance segmentation. The code is designed for flexibility and reproducibility, supporting configurable training and inference via command-line arguments.
