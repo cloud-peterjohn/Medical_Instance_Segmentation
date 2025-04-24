@@ -26,6 +26,8 @@ pip install -r requirements.txt
 3. **Prepare the dataset:**
 Place the dataset in the folder specified by `--data_root` (default: `hw3-data-release`).
 
+Download it [here](https://drive.google.com/file/d/1B0qWNzQZQmfQP7x7o4FDdgb9GvPDoFzI/view?pli=1).
+
 ## How to Run
 
 ### Training and Inference
