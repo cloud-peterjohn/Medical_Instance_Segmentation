@@ -2,7 +2,7 @@
 
 A project for medical instance segmentation using a ResNet-50-FPN based Mask R-CNN.
 
-Stu: Ping-Yeh Chou 113550901
+Ping-Yeh Chou 113550901
 
 ## Introduction
 
