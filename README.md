@@ -2,7 +2,6 @@
 
 A project for medical instance segmentation using a ResNet-50-FPN based Mask R-CNN.
 
-Ping-Yeh Chou 113550901
 
 ## Introduction
 
@@ -60,3 +59,5 @@ You can override any of these defaults by specifying them on the command line.
 
 ## Results
 ![alt text](results.png)
+
+Ping-Yeh Chou 113550901
