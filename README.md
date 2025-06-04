@@ -60,4 +60,3 @@ You can override any of these defaults by specifying them on the command line.
 ## Results
 ![alt text](results.png)
 
-Ping-Yeh Chou 113550901
